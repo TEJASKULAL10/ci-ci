@@ -20,7 +20,7 @@ function App() {
           letterSpacing: "1.2px"
         }}
       >
-        Welcome To Ethnotech  and my website
+        Welcome To Ethnotech  and my websitenjjmjnjnhjnmkjkmlklow2de
       </h1> 
     </div>
   );
